@@ -1,0 +1,9 @@
+language: csharp
+solution: Ackermann/Ackermann.sln
+notifications:
+  slack:
+    urls:
+      - secure: $webhook
+    on_success: change
+    on_failure: always
+    on_start: never
