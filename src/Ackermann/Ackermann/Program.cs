@@ -12,7 +12,7 @@ namespace Ackermann
         
         public void Run()
         {
-            Console.WriteLine("N: "");
+            Console.WriteLine("N: ");
             Console.Write("> ");
             ulong n = ulong.Parse(Console.ReadLine());
             Console.WriteLine("M: ");
