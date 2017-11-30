@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BC28BC41-0B79-42A6-A938-38E945C7D40F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ackermann", "..\src\Ackermann\Ackermann\Ackermann.csproj", "{4B828B17-2727-4F1A-B652-7F40C0933691}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ackermann", "src\Ackermann\Ackermann\Ackermann.csproj", "{4B828B17-2727-4F1A-B652-7F40C0933691}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
