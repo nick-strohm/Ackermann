@@ -1,5 +1,5 @@
 language: csharp
-solution: Ackermann/Ackermann.sln
+solution: Ackermann.sln
 notifications:
   slack:
     urls:
